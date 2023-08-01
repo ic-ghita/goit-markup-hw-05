@@ -84,7 +84,7 @@ a.global-header {
   height: 4px;
   border-radius: 2px;
   background-color: var(--active-color);
-  bottom: 0;
+  bottom: -1px;
   display: flex;
 }
 
@@ -95,7 +95,7 @@ a.global-header {
   height: 4px;
   border-radius: 2px;
   background-color: var(--active-color);
-  bottom: 0;
+  bottom: -1px;
   display: flex;
 }
 
